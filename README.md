@@ -86,8 +86,8 @@ Ensure you have Python 3.8+ and git installed on your system before proceeding.
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/kemaxx/personal-ai-knowledge-worker.git
-cd personal-ai-knowledge-worker
+git clone https://github.com/kemaxx/my-personal-rag-assistant.git
+cd my-personal-rag-assistant
 ```
 
 **2. Set up Virtual Environment**
